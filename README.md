@@ -2,6 +2,7 @@
 ### Connect to Android where ADB is exposed to the internet
 
 [![Technology](https://skillicons.dev/icons?i=qt,python,linux&perline=3)](https://github.com/security007/Sword/)
+<br>
 [![tech](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/security007/Sword/)
 
 The "Sword" application is a software tool that enables users to access Android devices exposed to the internet through the Android Debug Bridge (ADB). Designed for seamless remote management, the app leverages the exposed ADB functionality over the network.
