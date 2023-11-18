@@ -7,10 +7,13 @@
 
 The "Sword" application is a software tool that enables users to access Android devices exposed to the internet through the Android Debug Bridge (ADB). Designed for seamless remote management, the app leverages the exposed ADB functionality over the network.
 
+## Download
+
+Download [Here](https://google.com)
 
 ## Installation
 
-Download [SCRCPY](https://github.com/Genymobile/scrcpy)
+Download & Install [SCRCPY](https://github.com/Genymobile/scrcpy)
 ```bash
 sudo apt-get install adb
 ```
