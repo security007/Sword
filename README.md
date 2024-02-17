@@ -9,7 +9,7 @@ The "Sword" application is a software tool that enables users to access Android 
 
 ## Download
 
-Download [New Version!!](https://github.com/security007/Sword/releases/)
+Download [New Version!!](https://github.com/security007/Sword/releases/tag/v1.2.0)
 
 ## Installation
 
