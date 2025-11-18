@@ -1,4 +1,5 @@
 # SWORD - Android ADB Exposed Tool
+
 ### Connect to Android where ADB is exposed to the internet
 
 [![Technology](https://skillicons.dev/icons?i=qt,python,linux&perline=3)](https://github.com/security007/Sword/)
@@ -7,13 +8,10 @@
 
 The "Sword" application is a software tool that enables users to access Android devices exposed to the internet through the Android Debug Bridge (ADB). Designed for seamless remote management, the app leverages the exposed ADB functionality over the network.
 
-## Download
-
-Download [New Version!!](https://github.com/security007/Sword/releases/tag/v1.2.0)
-
 ## Installation
 
 Download & Install [SCRCPY](https://github.com/Genymobile/scrcpy)
+
 ```bash
 sudo apt-get install adb
 ```
@@ -21,9 +19,7 @@ sudo apt-get install adb
 ## Usage
 
 ```
-Double click 'sword' executable file
-or
-Right click on 'sword' and choose execute
+python sword.py
 ```
 
 ## Contributing
