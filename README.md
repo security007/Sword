@@ -10,14 +10,15 @@ The "Sword" application is a software tool that enables users to access Android 
 
 ## Installation
 
-Download & Install [SCRCPY](https://github.com/Genymobile/scrcpy)
-Install ADB
+1. Download & Install [SCRCPY](https://github.com/Genymobile/scrcpy)
+
+2. Install ADB
 
 ```bash
 sudo apt-get install adb
 ```
 
-Install XTERM
+3. Install XTERM
 
 ```bash
 sudo apt-get install xterm
